@@ -11,4 +11,3 @@ wheels/
 .DS_Store
 .env
 data/
-/data
